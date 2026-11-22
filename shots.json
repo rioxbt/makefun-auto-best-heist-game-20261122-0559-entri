@@ -1,0 +1,6 @@
+[
+  { "name": "1-vault-floor.jpg", "query": "?shot=cover&seed=1" },
+  { "name": "2-executive-wing.jpg", "query": "?shot=wing&seed=1" },
+  { "name": "3-alarm-rising.jpg", "query": "?shot=alarm&seed=1" },
+  { "name": "4-getaway.jpg", "query": "?shot=getaway&seed=1" }
+]
